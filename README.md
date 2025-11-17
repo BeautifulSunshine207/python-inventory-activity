@@ -1,6 +1,8 @@
 # python-inventory-activity
 Name: Stefan Jeremiah C Birondo
+
 Activity File: CS15-Activity 1/Nov 15,2025
+
 Problem Description: 
 
 Create an inventory program using the following data structures:
